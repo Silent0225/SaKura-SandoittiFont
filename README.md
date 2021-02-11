@@ -1,7 +1,7 @@
 # SaKura-SandoittiFont (佐倉サンドイッチフォント)
 這個字體是源自於0.17.0版本的sarasa-mono-j-semibold ([Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic))的派生字體。
 
-![](https://i.imgur.com/NSRsP34.png)
+![](https://i.imgur.com/wACWkO2.png)
 
 ## 和Sarasa-Gothic之間的差異？
 我還蠻喜歡日本新字体和拡張新字体的漢字寫法。
