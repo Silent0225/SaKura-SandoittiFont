@@ -46,7 +46,7 @@
 　
 ## 下載字體
 
-　點擊在[這個頁面](https://github.com/Silent0225/SaKura-SandoittiFont)之中的「Code」按鈕，並按下「Download ZIP」按鈕。或者，直接點擊ttf字體檔案，再點擊「Download」的按鈕來下載。
+　點擊右側邊的「Releases」按鈕，選擇最新版下載。
 　
 　
 　
