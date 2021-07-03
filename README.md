@@ -2,7 +2,7 @@
 
 　這個字體的最新版本是源自於0.32.4版、unhinted版的sarasa-mono-j-semibold ([Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic))的派生字體。
 
-![](https://i.imgur.com/VDVXSP6.png)
+![](https://i.imgur.com/uCHLISp.png)
 　
 　
 　
