@@ -3,15 +3,15 @@
 
 
 
-　＝＝＝＝＝＝＝＝
+　========
 　Sarasa-Gothic
-　＝＝＝＝＝＝＝＝
- 
-　Copyright 2015-2021, Renzhi Li (aka. Belleve Invis, belleve@typeof.net).
+　========
 
-　Portions Copyright (c) 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
+　Copyright 2015-2021 Renzhi Li (aka. Belleve Invis, belleve@typeof.net).
 
-　Portions Copyright 2012 Google Inc.
+　Portions Copyright (c) 2014-2019 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Portions Copyright 2017-2020 Rasmus Andersson.
+
+　Portions Copyright 2017, 2018 MoneMizuno.
 
 
 
