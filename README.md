@@ -4,9 +4,7 @@
 
 　這個字體的最新版本是源自於0.35.8／unhinted版本的sarasa-mono-j-semibold ([Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)) 的派生字體。
 
-![](https://i.imgur.com/85PFY55.png)
-　
-　
+　　
 　
 ## 和Sarasa-Gothic之間的差異？
 
