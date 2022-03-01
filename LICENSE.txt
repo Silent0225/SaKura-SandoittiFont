@@ -1,25 +1,26 @@
+ 
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
 
-　This font is derived from Sarasa-Gothic.
 
 
+Besides, This font is derived from Sarasa-Gothic.
 
 　========
 　Sarasa-Gothic
 　========
 
-　Copyright 2015-2021 Renzhi Li (aka. Belleve Invis, belleve@typeof.net).
+　Copyright (c) 2015-2022, Renzhi Li (aka. Belleve Invis, belleve@typeof.net).
 
-　Portions Copyright (c) 2014-2019 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Portions Copyright 2017-2020 Rasmus Andersson.
+　Portions Copyright (c) 2016-2020 The Inter Project Authors.
 
-　Portions Copyright 2017, 2018 MoneMizuno.
+　Portions Copyright (c) 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
 
-
-
-　ーーーーーーーー
+　Portions Copyright (c) 2012 Google Inc.
  
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+　ーーーーーーー
+
 
 
 -----------------------------------------------------------
