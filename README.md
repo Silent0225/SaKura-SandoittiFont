@@ -1,4 +1,4 @@
-# SaKura-SandoittiFont (佐倉サンドイッチフォント／佐倉3文字體)
+# SaKura-SandoittiFont (佐倉サンドイッチフォント)
 
 ![](https://i.imgur.com/ic71ea5.png)
 
